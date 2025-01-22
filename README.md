@@ -53,7 +53,7 @@
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-alhalim/) 
-- 📧 Email: mohammadalhalim@outlook.com
+- 📧 Email: mohammadalhalim@outlook.com 
 
 ---
 
