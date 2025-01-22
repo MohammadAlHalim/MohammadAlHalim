@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Mohammad ALhalim](https://github.com/MohammadAlHalim) !
+# 👋 Hi there, I'm [Mohammad Alhalim](https://github.com/MohammadAlHalim) !
 
 🎓 **Computer Engineering Student** at Beirut Arab University (Graduating June 2026)  
 💻 Passionate about **Artificial Intelligence**, **Machine Learning**, and **IoT**  
